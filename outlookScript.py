@@ -30,7 +30,7 @@ for ind in df.index:
     comp = df[headers[2]][ind]
     university = df[headers[3]][ind]
     email = df[headers[4]][ind]
-    positionAtComp = df[headers[4]][ind]
+    positionAtComp = df[headers[5]][ind]
 
     subjectStr = "Networking Email" #string that will populate subject frame
     bodyStr = "Hello "+firstName #add any text to bodyStr that you want in the email body
