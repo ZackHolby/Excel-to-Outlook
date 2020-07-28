@@ -4,7 +4,7 @@ Python script that grabs an excel file and loads it into a pandas dataframe to c
 # 2) Dependencies
 Install these dependencies to run this script locally
 ### a) Python and Pip
-install from python.org on your respective OS
+install from [Python.org] on your respective OS
 ### b) Pandas - install using this command
 ```
 pip install pandas
